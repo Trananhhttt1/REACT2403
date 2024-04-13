@@ -1,0 +1,26 @@
+.card__gruop {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+.card {
+  width: 300px;
+
+  position: relative;
+}
+.card__image {
+  width: 300px;
+}
+span {
+  color: wheat;
+  background-color: blue;
+}
+.card__button {
+  text-align: right;
+}
+img {
+  max-width: 100%;
+  display: block;
+  height: 200px;
+}
